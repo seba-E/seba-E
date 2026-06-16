@@ -5,6 +5,7 @@
 :eyeglasses: **Levemente Geek.**  
 :guitar: **Fan de la música y la guitarra de rock y jazz.**  
 :dog: **Doglover, tengo una perrita.**  
+:bike: **Sports lover (cycling, running, calisthenics)**
 **🌱 I’m currently learning git and GitHub, Python programming.**  
 **📫 How to reach me: [sebastianecheverriag@gmail.com](mailto:sebastianecheverriag@gmail.com)**  
 **🔭 I’m currently working on python scripts for automating Excel and SAP tasks.**  
