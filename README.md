@@ -9,5 +9,5 @@
 **📫 How to reach me: [sebastianecheverriag@gmail.com](mailto:sebastianecheverriag@gmail.com)**  
 **🔭 I’m currently working on python scripts for automating Excel and SAP tasks.**  
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/seba-E/seba-E)  
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/seba-E/notes)  
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/seba-E/seba-E)  Frontpage  
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/seba-E/notes)  Notes  
