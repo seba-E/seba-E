@@ -12,3 +12,12 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/seba-E/seba-E)  Frontpage  
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/seba-E/notes)  Notes  
+
+### :zap: Actividad reciente
+<!-- START_SECTION:activity -->
+
+<!-- END_SECTION:activity -->
+
+<!-- RECENT_ACTIVITY:last_update -->
+Last Updated: Monday, June 22nd, 2026, 12:10 PM
+<!-- RECENT_ACTIVITY:last_update_end -->
