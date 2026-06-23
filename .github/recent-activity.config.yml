@@ -1,0 +1,12 @@
+# Example configuration for Readme-Workflows/recent-activity
+# Adjust repositories, max_items, and filters as needed.
+
+repositories:
+  - seba-E/seba-E
+  - seba-E/notes
+
+max_items: 5
+include_forks: false
+include_private: false
+
+date_format: "YYYY-MM-DD"
