@@ -1,12 +1,35 @@
 # Configuration for Readme-Workflows/recent-activity
-# Full option reference: https://github.com/Readme-Workflows/recent-activity/wiki/Configuration
+# NOTE: keys must be nested under `settings:` / `messages:` — the action merges
+# defaults -> userVals.settings -> userVals.messages, so flat top-level keys
+# are silently ignored (confirmed against src/config.js).
 
-max_lines: 5
+settings:
+  max_lines: 5
 
-# Only show commits (push events), since that's what we want on the profile.
-whitelisted_events:
-  - push
+  # There's no allow-list, only a disable-list, so we disable everything
+  # except push events to keep the profile focused on recent commits.
+  disabled_events:
+    - comments
+    - create_repo
+    - fork_repo
+    - issue_opened
+    - issue_closed
+    - pr_opened
+    - pr_closed
+    - pr_merged
+    - wiki_create
+    - added_member
+    - changes_approved
+    - changes_requested
+    - new_release
+    - new_star
 
-date:
-  timezone: "America/Bogota"
-  format: "yyyy-mm-dd HH:MM"
+  date:
+    timezone: "America/Bogota"
+    format: "yyyy-mm-dd HH:MM"
+
+messages:
+  # {AMOUNT} is dropped: it reads item.payload.size from the GitHub events
+  # API, which is undefined for most pushes (open upstream bug, unfixed as
+  # of recent-activity v2.4.1 — see issues #351 and #348).
+  push: "⬆️ Pushed to {REPO}"
