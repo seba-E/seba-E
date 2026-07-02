@@ -1,12 +1,12 @@
-# Example configuration for Readme-Workflows/recent-activity
-# Adjust repositories, max_items, and filters as needed.
+# Configuration for Readme-Workflows/recent-activity
+# Full option reference: https://github.com/Readme-Workflows/recent-activity/wiki/Configuration
 
-repositories:
-  - seba-E/seba-E
-  - seba-E/notes
+max_lines: 5
 
-max_items: 5
-include_forks: false
-include_private: false
+# Only show commits (push events), since that's what we want on the profile.
+whitelisted_events:
+  - push
 
-date_format: "YYYY-MM-DD"
+date:
+  timezone: "America/Bogota"
+  format: "yyyy-mm-dd HH:MM"
