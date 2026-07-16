@@ -20,5 +20,5 @@
 2. ⬆️ Pushed to [seba-E/notes](https://github.com/seba-E/notes)<br>
 3. ⬆️ Pushed to [seba-E/notes](https://github.com/seba-E/notes)<br>
 4. ⬆️ Pushed to [seba-E/notes](https://github.com/seba-E/notes)<br>
-5. ⬆️ Pushed to [seba-E/seba-E](https://github.com/seba-E/seba-E)<br>
+5. ⬆️ Pushed to [seba-E/notes](https://github.com/seba-E/notes)<br>
 <!--RECENT_ACTIVITY:end-->
