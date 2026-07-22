@@ -17,7 +17,7 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed to [seba-E/notes](https://github.com/seba-E/notes)<br>
-2. ⬆️ Pushed to [seba-E/notes](https://github.com/seba-E/notes)<br>
+2. ⬆️ Pushed to [seba-E/jupyter_studies](https://github.com/seba-E/jupyter_studies)<br>
 3. ⬆️ Pushed to [seba-E/notes](https://github.com/seba-E/notes)<br>
 4. ⬆️ Pushed to [seba-E/notes](https://github.com/seba-E/notes)<br>
 5. ⬆️ Pushed to [seba-E/notes](https://github.com/seba-E/notes)<br>
