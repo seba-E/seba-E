@@ -20,5 +20,4 @@
 2. ⬆️ Pushed to [seba-E/Goiri_Ofertas](https://github.com/seba-E/Goiri_Ofertas)<br>
 3. ⬆️ Pushed to [seba-E/notes](https://github.com/seba-E/notes)<br>
 4. ⬆️ Pushed to [seba-E/jupyter_studies](https://github.com/seba-E/jupyter_studies)<br>
-5. ⬆️ Pushed to [seba-E/notes](https://github.com/seba-E/notes)<br>
 <!--RECENT_ACTIVITY:end-->
