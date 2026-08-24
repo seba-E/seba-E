@@ -17,5 +17,4 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed to [seba-E/notes](https://github.com/seba-E/notes)<br>
-2. ⬆️ Pushed to [seba-E/Goiri_Ofertas](https://github.com/seba-E/Goiri_Ofertas)<br>
 <!--RECENT_ACTIVITY:end-->
