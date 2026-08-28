@@ -16,5 +16,4 @@
 ### :zap: Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed to [seba-E/notes](https://github.com/seba-E/notes)<br>
 <!--RECENT_ACTIVITY:end-->
